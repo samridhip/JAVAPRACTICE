@@ -7,6 +7,6 @@ public class Qustion17 {
         int input= name.nextInt();
         System.out.println("Input second binary number:");
         int output=name.nextInt();
-        System.out.println("")
+        System.out.println();
     }
 }
