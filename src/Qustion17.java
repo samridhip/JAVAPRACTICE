@@ -4,9 +4,10 @@ public class Qustion17 {
     public static void main(String[]args){
         Scanner name= new Scanner(System.in);
         System.out.println("Input first binary number:");
-        int input= name.nextInt();
+        long numb1= name.nextLong();
         System.out.println("Input second binary number:");
-        int output=name.nextInt();
+        long numb2=name.nextInt();
         System.out.println();
+       
     }
 }
